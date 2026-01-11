@@ -16,7 +16,11 @@ class GeminiService:
 
     def generate(self, prompt: str) -> str:
         response = self.model.generate_content(
-            prompt, generation_config={"temperature": 0.2}  # low randomness
+            prompt,
+            generation_config={
+                "temperature": 0.2,  # low randomness
+                "max_output_tokens": 100000,  # max tokens
+            },
         )
         return response.text
 
