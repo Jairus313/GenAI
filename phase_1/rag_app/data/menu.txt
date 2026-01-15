@@ -1,0 +1,7 @@
+Sunrise Cafe serves breakfast, beverages, snacks, and desserts. 
+For breakfast, the menu includes Masala Omelette priced at 120 rupees, Veg Sandwich priced at 90 rupees, and Butter Toast priced at 60 rupees.
+Beverages available are Filter Coffee for 50 rupees, Cappuccino for 120 rupees, and Masala Chai for 40 rupees.
+Snacks offered include Veg Puff priced at 40 rupees, Samosa priced at 35 rupees, and French Fries priced at 100 rupees.
+Desserts on the menu are Chocolate Brownie for 150 rupees and Vanilla Ice Cream for 90 rupees.
+All items are freshly prepared and prices include 18% taxes with as final bill.
+Breakfast service is available until 11:30 AM.
